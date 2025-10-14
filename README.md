@@ -37,3 +37,5 @@ Horizontal bar chart for top-selling products
 Table visualization for salesperson performance
  #**  Conclusion
 This dashboard provides a clear and actionable overview of chocolate sales operations worldwide. By highlighting key performance indicators, it empowers stakeholders to make data-backed business decisions and boost profitability.
+# Screenshots / Demos
+Show what the Dashboard looks like:. - https://github.com/Adibkhan5426/Chocolate-Sales-Report/blob/main/Chocolate%20Sales%20Report.png
